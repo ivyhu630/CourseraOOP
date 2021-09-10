@@ -182,6 +182,7 @@ public class EarthquakeCityMap extends PApplet {
         fill(BLUE);
         final int LOW_R = 5;
         ellipse(ELLIPSE_X, TEXT_Y + 2 * Y_INC - HALF_TEXT_HEIGHT, LOW_R, LOW_R);
+        Object o;
 
 
     }
